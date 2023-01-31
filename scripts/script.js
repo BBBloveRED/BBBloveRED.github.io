@@ -20,7 +20,7 @@ buttons.forEach(btn => {
 });
 
 document.getElementById("contact-me").onclick = function() {
-    window.location.href = "https://www.facebook.com/adolf.min.9/";
+    window.location.href = "https://www.facebook.com/";
 };
 
 var play = false;
